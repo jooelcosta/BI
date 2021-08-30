@@ -1,6 +1,6 @@
-[![author](https://img.shields.io/badge/Author-Joel%20Almeida-yellow)](https://linktr.ee/zouza) [![Software](https://img.shields.io/badge/Soft.-Power%20BI-yellow)](https://www.python.org/downloads/release/python-365/))
+[![author](https://img.shields.io/badge/Author-Joel%20Almeida-yellow)](https://linktr.ee/zouza) [![Software](https://img.shields.io/badge/Soft.-Power%20BI-yellow)](https://www.python.org/downloads/release/python-365/)
 
-![](https://blogdozouza.files.wordpress.com/2021/01/protfolio.png)
+![](https://i.ibb.co/j8x063m/pbi.png)
 
 # Portfólio de Projetos - Ciência de Dados (Buscando valor em Dados)
 
