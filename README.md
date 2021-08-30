@@ -1,4 +1,4 @@
-![author](https://img.shields.io/badge/Author-Joel%20Almeida-yellowgreen) ![Software](https://img.shields.io/badge/Software-Power%20BI-yellow)
+![author](https://img.shields.io/badge/Author-Joel%20Almeida-yellowgreen) ![Language](https://img.shields.io/badge/Language-Power%20BI-yellow)
 
 ![](https://i.ibb.co/j8x063m/pbi.png)
 
@@ -11,8 +11,6 @@ Os Projetos iniciaram com análises de dados utilizando *Business Intelligence* 
 
 Aqui encontrará:
 - Projetos de BI em Tableau e Microsoft Power BI
-- Projetos de Machine Learning utilizando Python
-
 ------------
 
 |    Nome do Projeto  | Notebook ou Link    | Linguagem    | Fonte de Dados  | Observação  | 
