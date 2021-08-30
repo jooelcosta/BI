@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/Author-Joel%20Almeida-yellowgreen)] [![Software](https://img.shields.io/badge/Software-Power%20BI-yellow)]
+![author](https://img.shields.io/badge/Author-Joel%20Almeida-yellowgreen) ![Software](https://img.shields.io/badge/Software-Power%20BI-yellow)
 
 ![](https://i.ibb.co/j8x063m/pbi.png)
 
