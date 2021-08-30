@@ -20,4 +20,4 @@ Aqui encontrará:
 
 ------------
 
---**Alex Souza** (*Mestre em Inteligência Artificial | MTAC*) - [Currículo Lattes](http://lattes.cnpq.br/3318149614519892) | [LinkedIn](https://www.linkedin.com/in/alex-souza/) | [Blog Técnico](https://blogdozouza.wordpress.com/) | [Kaggle](https://www.kaggle.com/aasouzaconsult/notebooks)
+/* **Alex Souza** (*Mestre em Inteligência Artificial | MTAC*) - [Currículo Lattes](http://lattes.cnpq.br/3318149614519892) | [LinkedIn](https://www.linkedin.com/in/alex-souza/) | [Blog Técnico](https://blogdozouza.wordpress.com/) | [Kaggle](https://www.kaggle.com/aasouzaconsult/notebooks) */
