@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/Author-Joel%20Almeida-yellow)](https://linktr.ee/zouza) [![Software](https://img.shields.io/badge/Soft.-Power%20BI-yellow)](https://www.python.org/downloads/release/python-365/)
+[![author](https://img.shields.io/badge/Author-Joel%20Almeida-yellowgreen)] [![Software](https://img.shields.io/badge/Software-Power%20BI-yellow)]
 
 ![](https://i.ibb.co/j8x063m/pbi.png)
 
