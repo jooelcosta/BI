@@ -13,11 +13,10 @@ Aqui encontrará:
 - Projetos de BI em Tableau e Microsoft Power BI
 ------------
 
-|    Nome do Projeto  | Notebook ou Link    | Linguagem    | Fonte de Dados  | Observação  | 
+|    Nome do Projeto  | Link    | Linguagem    | Fonte de Dados  | Observação  | 
 | ------------        | ------------        | ------------ | ------------    |------------ |
-| **Censo Escolar 2020**| [Censo Escolar 2020](https://www.linkedin.com/pulse/censo-escolar-2020-alex-souza-msc/)| Power BI | [INEP - Censo Escolar 2020](http://inep.gov.br/) | Uma análises das escolas por tipo, número de alunos e região |
+| **Desafio Kick Start - Power BI Experiencie **| [Censo Escolar 2020](https://www.linkedin.com/pulse/censo-escolar-2020-alex-souza-msc/)| Power BI | [INEP - Censo Escolar 2020](http://inep.gov.br/) | Uma análises das escolas por tipo, número de alunos e região |
 
 
 ------------
 
-/* **Alex Souza** (*Mestre em Inteligência Artificial | MTAC*) - [Currículo Lattes](http://lattes.cnpq.br/3318149614519892) | [LinkedIn](https://www.linkedin.com/in/alex-souza/) | [Blog Técnico](https://blogdozouza.wordpress.com/) | [Kaggle](https://www.kaggle.com/aasouzaconsult/notebooks) */
