@@ -21,9 +21,9 @@ Uma visão geral de como os dados estavam dispostos na planilha:
 ![](https://i.ibb.co/jh61w7b/base4.png)
 
 Importando a base de dados
-  •	A importação foi feita como a imagem abaixo;
-  •	A tabela produtos não foi importada pois não estava no formato ideal para se trabalhar no Power BI.
-  ![](https://i.ibb.co/1bHzVJ8/navigator.png)
+- A importação foi feita como a imagem abaixo;
+- A tabela produtos não foi importada pois não estava no formato ideal para se trabalhar no Power BI.
+- ![](https://i.ibb.co/1bHzVJ8/navigator.png)
   
 
 
