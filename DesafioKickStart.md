@@ -7,7 +7,7 @@ O resultado pode ser visto através do link abaixo:
 [Desafio Kick Start](https://app.powerbi.com/view?r=eyJrIjoiMzhiODk2ZjktYzQ5NC00NTY4LTk1YzEtMzBlMDJjOTFiOTU2IiwidCI6ImFmMTJhMmZkLTI0NjgtNDA1OS1hNTFhLTYyZmRhM2U2OTBiNSJ9&pageName=ReportSection047258e706d600e79a61) 
 
 
-![](https://i.ibb.co/j8x063m/pbi.png)
+--![](https://i.ibb.co/j8x063m/pbi.png)
 
 Informações detalhadas:
 
