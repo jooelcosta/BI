@@ -15,7 +15,7 @@ Aqui encontrará:
 
 |    Nome do Projeto  | Link    | Linguagem    | Fonte de Dados  | Observação  | 
 | ------------        | ------------        | ------------ | ------------    |------------ |
-| **Desafio Kick Start - Power BI Experiencie **| [Censo Escolar 2020](https://www.linkedin.com/pulse/censo-escolar-2020-alex-souza-msc/)| Power BI | [INEP - Censo Escolar 2020](http://inep.gov.br/) | Uma análises das escolas por tipo, número de alunos e região |
+| **Desafio Kick Start - Power BI Experiencie**| [Censo Escolar 2020](https://www.linkedin.com/pulse/censo-escolar-2020-alex-souza-msc/)| Power BI | [INEP - Censo Escolar 2020](http://inep.gov.br/) | Uma análises das escolas por tipo, número de alunos e região |
 
 
 ------------
